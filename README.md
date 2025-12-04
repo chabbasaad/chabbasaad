@@ -53,7 +53,6 @@ class Saad extends SeniorDeveloper
 - 🔥 **8+ years** building enterprise applications with **PHP/Laravel**
 - ☁️ **Cloud Architect** specializing in **Azure** & **AWS** infrastructure
 - 📱 Full-stack **Web & Mobile** developer (React Native, Flutter)
-- 🔐 Expert in **secure authentication**, **API design** & **microservices**
 - 🎯 Passionate about **clean code**, **SOLID principles** & **TDD**
 
 ---
