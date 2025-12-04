@@ -23,11 +23,11 @@ namespace App\Developers;
 
 class Saad extends SeniorDeveloper
 {
-    public string $location = "Lyon, France 🇫🇷";
+    public string $location = "behind laptop";
     public string $role = "Senior Software Engineer";
     
     public array $expertise = [
-        "Backend"  => ["PHP 5/7/8+", "Laravel", "REST APIs", "Microservices"],
+        "Backend"  => ["PHP 5/7/8+", "Laravel", "Node.js", "Express.js", "Python", "REST APIs", "Microservices"],
         "Frontend" => ["React", "Vue.js", "TypeScript", "Tailwind CSS"],
         "Mobile"   => ["React Native", "Flutter"],
         "Cloud"    => ["Azure", "AWS", "Docker", "Kubernetes", "CI/CD"],
@@ -62,9 +62,13 @@ class Saad extends SeniorDeveloper
 
 <div align="center">
 
-### 🔴 Backend (Primary)
+### 🔴 Backend
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
@@ -72,6 +76,7 @@ class Saad extends SeniorDeveloper
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
@@ -99,6 +104,7 @@ class Saad extends SeniorDeveloper
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -123,8 +129,8 @@ class Saad extends SeniorDeveloper
 
 | 💼 What I Do | 🛠️ Technologies |
 |:------------|:----------------|
-| **Enterprise Web Applications** | Laravel, PHP 8, MySQL, Redis |
-| **RESTful API Development** | Laravel API, OAuth2, JWT, Swagger |
+| **Enterprise Web Applications** | Laravel, PHP 8, Node.js, Python |
+| **RESTful API Development** | Laravel API, Express.js, FastAPI, OAuth2, JWT |
 | **Mobile App Development** | React Native, Flutter |
 | **Cloud Architecture** | Azure, AWS, Microservices |
 | **DevOps & CI/CD** | Docker, Kubernetes, GitHub Actions |
