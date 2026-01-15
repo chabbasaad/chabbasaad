@@ -192,7 +192,6 @@ class Saad extends SeniorDeveloper
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
 
